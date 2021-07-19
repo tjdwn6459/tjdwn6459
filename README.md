@@ -28,4 +28,6 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/c++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white&link=https://github.com/tjdwn6459/CPP"/> </a> &nbsp 
 <img src="https://img.shields.io/badge/.NET-148EFF?style=flat-square&logo=C++&logoColor=white"/></a> &nbsp 
 
+[![Facebook Badge](https://img.shields.io/badge/c++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white&link=https://github.com/tjdwn6459/CPP")](c++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white&link=https://github.com/tjdwn6459/CPP")
+	
 
