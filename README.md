@@ -29,3 +29,7 @@ Here are some ideas to get you started:
 
 
 
+[![tjdwn6459's GitHub stats](https://github-readme-stats.vercel.app/api?username=tjdwn6459)](https://github.com/tjdwn6459/github-readme-stats)
+
+
+
