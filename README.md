@@ -23,13 +23,13 @@ Here are some ideas to get you started:
 ### 💪 Skills
 #### Platforms & Languages
 <p>
-<a href="https://github.com/tjdwn6459/StudyHtml/tree/main/01_HTML" target="_blank"><img alt="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
-<a href="https://github.com/tjdwn6459/StudyHtml/tree/main/02_CSS" target="_blank"><img alt="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
-<a href="https://github.com/tjdwn6459/StudyCSharp21" target="_blank"><img alt="https://img.shields.io/badge/C Sharp-239120?style=flat-square&logo=C Sharp&logoColor=white"/>
-<a href="https://github.com/tjdwn6459/C-" target="_blank"><img alt="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
-<a href="https://github.com/tjdwn6459/StudyRaspberry21" target="_blank"><img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=flat&logo=python&logoColor=white"/>
-<a href="https://github.com/tjdwn6459/CPP" target="_blank"><img alt="https://img.shields.io/badge/c++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white&link=https://github.com/tjdwn6459/CPP"/>
-<a href="https://github.com/tjdwn6459" target="_blank"><img alt="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white"/>
+<a href="https://github.com/tjdwn6459/StudyHtml/tree/main/01_HTML" target="_blank"><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
+<a href="https://github.com/tjdwn6459/StudyHtml/tree/main/02_CSS" target="_blank"><img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
+<a href="https://github.com/tjdwn6459/StudyCSharp21" target="_blank"><img src="https://img.shields.io/badge/C Sharp-239120?style=flat-square&logo=C Sharp&logoColor=white"/>
+<a href="https://github.com/tjdwn6459/C-" target="_blank"><img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
+<a href="https://github.com/tjdwn6459/StudyRaspberry21" target="_blank"><img src="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=flat&logo=python&logoColor=white"/>
+<a href="https://github.com/tjdwn6459/CPP" target="_blank"><img src="https://img.shields.io/badge/c++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white&link=https://github.com/tjdwn6459/CPP"/>
+<a href="https://github.com/tjdwn6459" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white"/>
 </p>
 
 
