@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 
 <h3 align="center"><b>🛠seong ju 🛠</b></h3>
--------------------------------------------------------
+
 
 
 ### 💪 Skills
