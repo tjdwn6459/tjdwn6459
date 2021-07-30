@@ -41,7 +41,7 @@ Here are some ideas to get you started:
  
 <h3>🎀Frameworks and Libraries<h3>
 <a href="https://github.com/tjdwn6459/StudyAspNet21" target="_blank"><img alt=".Net" src="https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logoColor=white"/></a>
-<a href="https://github.com/choiyeonseong/StudyOpenCV.git" target="_blank"><img alt="OpenCV" src="https://img.shields.io/badge/opencv-%23white.svg?style=flat&logo=opencv&logoColor=white"/></a>
+<a href= ""target="_blank"><img alt="OpenCV" src="https://img.shields.io/badge/opencv-%23white.svg?style=flat&logo=opencv&logoColor=white"/></a>
 <a href="https://github.com/choiyeonseong/Capston_Dicture_Pen.git" target="_blank"><img alt="Qt" src="https://img.shields.io/badge/Qt-41CD52?style=flat&logo=Qt&logoColor=white"/></a>
 </p>
 
